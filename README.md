@@ -7,9 +7,8 @@ This repository is part of the **LIVEWELL** initiative: building an ML-driven wo
 - **Nadex-recommendation** → generates daily trading recommendations.
 - **Nadex-backtesting** → R&D notebooks for testing strategies and validating ideas.
 
-**This is the Nadex-recommendation repository** 
+**This is the Nadex-backtesting repository** 
 
-- The required notebooks/contracts.csv file lists the contracts that will be available for trading the next day
 - Run the notebooks/nadex-recommendation.ipynb file
-- Recommendations are provided and are pushed to an S3 bucket
+- Historical results are pushed to an S3 bucket in an CSV format
 
